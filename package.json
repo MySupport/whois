@@ -13,12 +13,12 @@
     "url": "https://github.com/MySupport/whois.git"
   },
   "dependencies": {
-    "change-case": "^3.0.2",
+    "change-case": "^4.1.1",
     "dedent-js": "^1.0.1",
     "html-entities": "^1.2.1",
-    "whois": "^2.6.0"
+    "whois": "^2.11.0"
   },
   "devDependencies": {
-    "mocha": "^3.2.0"
+    "mocha": "^6.2.2"
   }
 }
