@@ -1,8 +1,10 @@
 A wrapper for the excellent [`whois` module](https://www.npmjs.com/package/whois), that returns results in actual, structured, camelCased JavaScript!
 
-# Changes from `whois-json`
+[![Build Status](https://travis-ci.org/mikemaccana/whois-json.svg?branch=master)](https://travis-ci.org/mikemaccana/whois-json)
 
-PR# https://github.com/mikemaccana/whois-json/pull/21 merged
+# Changes in version 2
+
+Callbacks are no longer supported by this module - the module returns Promises and should be used with `await`.
 
 # Demo
 
